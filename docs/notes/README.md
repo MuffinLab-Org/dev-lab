@@ -10,7 +10,7 @@
 
 | 技术主题 | 文档链接 | 维护人 | 状态 | 说明 |
 | :--- | :--- | :--- | :--- | :--- |
-| Git / 协作 | [git-tutorial.md](git-tutorial.md) | @你的GitHubID | 🚧 撰写中 | Git 基础、分支、PR、rebase、冲突与 443 代理排错 |
+| Git / 协作 | [git-tutorial.md](git-tutorial.md) | @AlleinMuffin | 🚧 撰写中 | Git 基础、分支、PR、rebase、冲突与 443 代理排错 |
 
 
 ---
