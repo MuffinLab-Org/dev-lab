@@ -221,3 +221,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# 补充规则
+# ==========================================
+# 1. C/C++ 编译产物 (MinGW64 / Dev-C++)
+*.exe
+*.out
+*.o
+*.obj
+Debug/
+Release/
+
+# 2. 编辑器与 IDE 本地配置
+.vscode/
+.idea/
