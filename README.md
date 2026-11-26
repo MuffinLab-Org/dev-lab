@@ -2,8 +2,7 @@
 
 > **MUFFIN**：**M**ulti-disciplinary **U**nified **F**ramework **F**or **I**nterdisciplinary **N**etworking（多学科交叉与互联统一框架）。
 > 
-> 这里是 MuffinLab 的开发实验室与协作沙盒区域。我们不做纯底层的算法架构，而是做“算法驱动的跨学科系统工程架构”。
-
+> 这里是 MuffinLab 的开发实验室与协作沙盒区域。
 ## 目录结构
 
 - `docs/`：团队文档、接口规范与 MUFFIN 架构探讨（公共区域，必须走 PR 合并）
