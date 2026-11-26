@@ -1,3 +1,5 @@
+作者：@AlleinMuffin
+
 # Git 基本教程与团队协作方法
 
 > 适用对象：MUFFIN Lab 新手成员。目标是用最短路径跑通 clone、提交、分支、push、PR、同步和冲突处理。
@@ -6,7 +8,7 @@
 
 ---
 
-## 0. 先记住三条底线
+## 0. 三大注意事项
 
 1. 不要 `force push main`。
 2. 不要提交 `.exe`、`build/`、个人 `.vscode/` 配置、代理端口、PAT、密钥、大文件。
@@ -76,12 +78,13 @@ git status
 git diff
 ```
 
-只添加自己改的文件，不要 `git add .` 盲加：
+只添加自己改的文件，不要一味 `git add .` 盲加：
 
 ```bash
 git add <文件路径>
 git commit -m "type(scope): summary"
 ```
+PS：用`git add .`也可以，前提是没有垃圾文件在你的工作区中。
 
 示例：
 
